@@ -1,0 +1,17 @@
+div{ 
+	font-family:  “Roman Wood Type JNL” , cursive;
+	font-size: 15px;
+	background: #b3b3b3;
+	font-variant: small-caps;
+	border-style: solid; 
+	border-width:medium;
+	border-color: #darkgrey;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 50px;
+	margin-left: 5px;
+	}
